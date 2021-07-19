@@ -1,1 +1,1 @@
-algorithm-js
+# js algorithm studying
