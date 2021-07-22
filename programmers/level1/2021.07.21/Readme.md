@@ -16,6 +16,6 @@
 3. 세번째 방법
    map을 이용해서 코드 수를 줄이고, 간결하게 만든다.\
    map을 한 배열은 임의의 함수를 통해서 바뀐 배열을 리턴한다.(기존 배열은 변화X)\
-   map에서 return tempArr[kNumber - 1]을 하여 K번째 수들을 갖는 배열을 리턴한다.\
+   map에서 return tempArr[kNumber - 1]을 하여 K번째 수들을 갖는 배열을 리턴한다.
 
    https://programmers.co.kr/learn/courses/30/lessons/42748
