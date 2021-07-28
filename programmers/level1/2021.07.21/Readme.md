@@ -2,7 +2,7 @@
 
 ## Level 1 K번째 수
 
-1. 첫번째 방법\
+1. 첫번째 방법
    for문을 이용해서 commands 배열을 순회한다.\
    array.slice(a,b)를 통해 배열을 잘라낸다.(a이상 b미만)\
    tempArr.sort(조건식)을 통해 배열을 정렬시킨다.(a,b => a-b)면 오름차순 \
