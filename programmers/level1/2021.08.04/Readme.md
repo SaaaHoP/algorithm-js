@@ -18,3 +18,5 @@ https://programmers.co.kr/learn/courses/30/lessons/42862
 케이스를 count가 0, zeroCount가 0 일때로 나눈다.\
 같은게 없거나, 하나만 같은 경우부터 6위이므로 가장 높은 순위를 계산할때 7 - count - zeroCount로,\
 제일 낮은 순위는 같은것만 빼준 7 - count로 새로운 배열에 push한다.
+
+https://programmers.co.kr/learn/courses/30/lessons/77484
