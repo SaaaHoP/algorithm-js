@@ -1,7 +1,6 @@
 function solution(s) {
   let answer = '';
   for (let i = 0; i < s.length; i++) {
-    console.log(s[i - 1]);
     if (s[i] === ' ') {
       answer += ' ';
       continue;
@@ -24,5 +23,3 @@ function solution2(s) {
 }
 
 console.log(solution2('3people   unFollowed me'));
-
-console.log('3people   unFollowed me'.split(' ').join(' '));
