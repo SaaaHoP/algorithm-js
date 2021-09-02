@@ -12,4 +12,6 @@ MDN에서 정규식 관련 설명을 보면서 풀었다.\
 sort를 이용해서 정규식에 해당하는 값들을 비교해서 오름차순으로 해주었다.\
 나중에 다시 풀어보자.
 
+정규식 관련 설명 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Regular_Expressions
+
 https://programmers.co.kr/learn/courses/30/lessons/17686
