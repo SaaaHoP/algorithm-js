@@ -13,7 +13,6 @@ function solution(enter, leave) {
     let nextEnter = enter[enterIdx];
     let nextLeave = leave[leaveIdx];
 
-    console.log(arr);
     if (arr.includes(nextLeave)) {
       arr.splice(arr.indexOf(nextLeave), 1);
       answer[nextLeave - 1] += arr.length;
